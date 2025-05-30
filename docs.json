@@ -21,12 +21,12 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Guides",
             "pages": [
-              "essentials/adding-links",
-              "essentials/customize-the-page",
-              "essentials/ai-chatbot",
-              "essentials/analytics"
+              "guides/add-links",
+              "guides/customize-the-page",
+              "guides/ai-chatbot",
+              "guides/analytics"
             ]
           }
         ]
