@@ -23,8 +23,8 @@
           {
             "group": "Guides",
             "pages": [
-              "guides/add-links",
-              "guides/customize-the-page",
+              "guides/add-blocks",
+              "guides/customize-page",
               "guides/ai-chatbot",
               "guides/analytics"
             ]
